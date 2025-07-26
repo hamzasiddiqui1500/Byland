@@ -1,0 +1,37 @@
+				@font-face {
+					font-family: 'tablet-gothic-narrow';
+					src: url('../fonts/8781tablet-gothic-narrow_1.woff2') format('woff2'),
+						url('../fonts/8781tablet-gothic-narrow.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.tablet-gothic-narrow{font-family: 'tablet-gothic-narrow' !important;}
+
+						@font-face {
+					font-family: 'adorn-story-script';
+					src: url('../fonts/7091adorn-story-script_1.woff2') format('woff2'),
+						url('../fonts/7091adorn-story-script.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.adorn-story-script{font-family: 'adorn-story-script' !important;}
+
+						@font-face {
+					font-family: 'sweet-sans-pro';
+					src: url('../fonts/6380sweet-sans-pro_1.woff2') format('woff2'),
+						url('../fonts/6380sweet-sans-pro.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.sweet-sans-pro{font-family: 'sweet-sans-pro' !important;}
+
+						@font-face {
+					font-family: 'orpheus-pro';
+					src: url('../fonts/5858orpheus-pro_1.woff2') format('woff2'),
+						url('../fonts/5858orpheus-pro.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.orpheus-pro{font-family: 'orpheus-pro' !important;}
+
+		
